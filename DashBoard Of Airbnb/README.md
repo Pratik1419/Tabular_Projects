@@ -86,7 +86,6 @@ This analysis benefits:
 
 ![Dashboard Screenshot](https://github.com/Pratik1419/Tabular_Projects/blob/main/DashBoard%20Of%20Airbnb/DashBoard.png)
 
-> *(Replace the image link above with your uploaded screenshot or Tableau Public link)*
 
 ---
 

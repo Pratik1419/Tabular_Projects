@@ -47,9 +47,9 @@ The dashboard allows users to dynamically explore Netflix data using slicers, dr
 ---
 
 ## 📸 Dashboard Preview
-*(Add your image or GIF preview below)*  
+*https://github.com/Pratik1419/Tabular_Projects/blob/main/Netflix_Data_In_PowerBI/DashBoard.png*  
 ```markdown
-![Netflix Power BI Dashboard Preview](your_image_link_here)
+![Netflix Power BI Dashboard Preview](https://github.com/Pratik1419/Tabular_Projects/blob/main/Netflix_Data_In_PowerBI/DashBoard.png)
 
 
 

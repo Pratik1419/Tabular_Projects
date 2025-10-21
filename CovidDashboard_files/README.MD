@@ -1,7 +1,7 @@
-# 🦠 COVID-19 Data Analysis Dashboard (Power BI Project)
+# 🦠 COVID-19 Data Analysis Dashboard (Tabular Project)
 
 ## 📖 Overview
-This Power BI dashboard provides a comprehensive analysis of the **global impact of COVID-19**.  
+This Tabular dashboard provides a comprehensive analysis of the **global impact of COVID-19**.  
 It visualizes worldwide COVID-19 statistics such as **total cases, total deaths, death percentage, and infection rates** across continents and countries.  
 
 The goal of this project is to help users understand the spread and severity of the pandemic through clear and interactive visuals.
@@ -39,7 +39,7 @@ The goal of this project is to help users understand the spread and severity of 
 
 ## 🚀 How to Use
 1. Clone or download this repository.  
-2. Open the `.pbix` file using **Power BI Desktop**.  
+2. Open the `.twbx` file using **Tabular Desktop**.  
 3. Use filters or hover over visuals to explore COVID-19 statistics interactively.  
 4. Compare trends across continents or countries using charts and maps.  
 
@@ -48,7 +48,7 @@ The goal of this project is to help users understand the spread and severity of 
 ## 📸 Dashboard Preview
 *(Add your image or GIF preview below)*  
 ```markdown
-![COVID-19 Power BI Dashboard Preview]()
+![COVID-19 Tabular Dashboard Preview](https://github.com/Pratik1419/Tabular_Projects/blob/main/CovidDashboard_files/DashBoard.png)
 
 
 

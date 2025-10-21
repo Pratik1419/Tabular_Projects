@@ -61,6 +61,6 @@ The dashboard is designed for clarity, interactivity, and data-driven storytelli
 Pratik Mishra
 📊 Aspiring Data Analyst | Tableau Enthusiast | Power BI, SQL & Python Learner
 🔗 LinkedIn(www.linkedin.com/in/pratik-mishra-profile)
- | GitHub()
+ | GitHub(https://github.com/Pratik1419)
 
 ⭐ If you found this dashboard insightful, please consider starring this repository! ⭐

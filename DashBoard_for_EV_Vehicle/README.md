@@ -48,7 +48,7 @@ The dashboard is designed for clarity, interactivity, and data-driven storytelli
 ## 📸 Dashboard Preview
 *(Add your image below)*  
 ```markdown
-![EV Tableau Dashboard Preview](your_image_link_here)
+![EV Tableau Dashboard Preview](https://github.com/Pratik1419/Tabular_Projects/blob/main/DashBoard_for_EV_Vehicle/DashBoard.png)
 
 
 
@@ -60,7 +60,7 @@ The dashboard is designed for clarity, interactivity, and data-driven storytelli
 
 Pratik Mishra
 📊 Aspiring Data Analyst | Tableau Enthusiast | Power BI, SQL & Python Learner
-🔗 LinkedIn()
+🔗 LinkedIn(www.linkedin.com/in/pratik-mishra-profile)
  | GitHub()
 
 ⭐ If you found this dashboard insightful, please consider starring this repository! ⭐
